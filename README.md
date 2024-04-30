@@ -1,5 +1,5 @@
 # sql_challenge
-# Employee Management Database
+# Employee Database
 
 This project defines an SQL schema and a set of queries for an Employee Management Database. The schema comprises several tables, including `employees`, `departments`, `dept_emp`, `dept_manager`, `salaries`, and `titles`, each with defined relationships and constraints. The SQL queries extract specific information from these tables to answer common business questions.
 
